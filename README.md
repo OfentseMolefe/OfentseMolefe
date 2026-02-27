@@ -61,7 +61,6 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=ofentsemolefe&show_icons=true&theme=radical&hide_border=true" alt="ofentsemolefe's GitHub stats" width="48%" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofentsemolefe&theme=radical&hide_border=true" alt="ofentsemolefe's GitHub streak" width="48%" />
 </div>
->
 
 <!-- Snake Animation (Optional - adds a fun element) -->
 <div align="center">
